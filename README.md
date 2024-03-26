@@ -11,7 +11,8 @@
 
 💙 Credits to [Bedimcode](https://github.com/bedimcode/)
 
-![preview img](/preview.png)
+<!--/https://positiwise.com/technologies/dot-net-development
+![preview img](/preview.png)-- THE PAGE UI FORMAT> -->
 
 <a href="https://www.linkedin.com/in/pius-deogratius/">
   <img
