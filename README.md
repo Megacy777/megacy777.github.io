@@ -10,9 +10,8 @@
   - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 💙 Credits to [Bedimcode](https://github.com/bedimcode/)
-
-<!--/https://positiwise.com/technologies/dot-net-development
-![preview img](/preview.png)-- THE PAGE UI FORMAT> -->
+<!--/https://positiwise.com/technologies/dot-net-development-- THE PAGE UI FORMAT> -->
+![preview img](/preview.png)
 
 <a href="https://www.linkedin.com/in/pius-deogratius/">
   <img
